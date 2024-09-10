@@ -1,0 +1,5 @@
+docker exec -it container_id bash
+must set the display variable manually right now
+
+https://classic.gazebosim.org/tutorials?tut=ros2_installing&cat=connect_ros#TestingGazeboandROS2integration
+cat /opt/ros/galactic/share/gazebo_plugins/worlds/gazebo_ros_diff_drive_demo.world
